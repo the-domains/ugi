@@ -1,0 +1,14 @@
+layout_spectrum: 0.798888
+typography_spectrum: 0.3458449
+color:
+  saturation: 0.9900524
+  lightness: 0.1097812
+  brandStrength: 0.781362
+  brandColors:
+    - '#0477B5'
+    - '#80C5FA'
+    - '#B5F9FA'
+    - '#051F54'
+    - '#1828BC'
+  rhythmicContrast: 0.9750437
+name: Ugi
